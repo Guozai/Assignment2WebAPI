@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Assignment2WebAPI.Controllers
+namespace AsrWebApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
